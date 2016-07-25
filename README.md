@@ -2,7 +2,7 @@
 This is a replacement of blade templates with twig templates and extra TWIG extensions to boost up production.
 
 # Installation instructions
-First install Authentication the proper way:
+First install Authentication of laravel the proper way:
 
 ```bash
 php artisan make:auth
