@@ -1,5 +1,5 @@
 # laravel-blade-to-twig-templates
-This is a replacement of blade templates with twig templates and extra TWIG extensions to boost up production.
+This is a replacement of blade with twig templates and extra TWIG extensions to boost up production.
 
 # Installation instructions
 First install Authentication of laravel the proper way:
