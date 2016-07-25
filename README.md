@@ -18,4 +18,5 @@ Please clone the content of this repository over your project and then you are s
 
 This is still not released as a version.
 
-# We use Materialize from materializecss.com as our main front-end framework.
+# Materialize Frontend Framework 
+We use Materialize from materializecss.com as our main front-end framework.
